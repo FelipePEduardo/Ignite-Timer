@@ -21,7 +21,7 @@ Nesse módulo aprendemos conceitos como:
 - Styled Components
 - React Router DOM
 - React Hook Form
--  ContextAPI
+- ContextAPI
 - useEffect
 - useReducer
 - immer
